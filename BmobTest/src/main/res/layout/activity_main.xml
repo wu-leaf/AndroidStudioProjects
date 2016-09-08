@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.study.wwl.myapplication.MainActivity">
+
+    <com.study.wwl.myapplication.TopBar
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+
+        custom:leftBackground="@drawable/blue_button"
+        custom:leftText="Back"
+        custom:leftTextColor="#ffffff"
+
+        custom:rightBackground="@drawable/blue_button"
+        custom:rightText="More"
+        custom:rightTextColor="#ffffff"
+
+        custom:titles="自定义标题"
+        custom:titleTextColor="#e61a5f"
+        custom:titleTextSize="10sp"
+        >
+
+    </com.study.wwl.myapplication.TopBar>
+</RelativeLayout>

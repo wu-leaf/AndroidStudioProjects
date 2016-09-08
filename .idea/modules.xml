@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BmobTest/BmobTest.iml" filepath="$PROJECT_DIR$/BmobTest/BmobTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrameWork_app/FrameWork_app.iml" filepath="$PROJECT_DIR$/FrameWork_app/FrameWork_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funny/Funny.iml" filepath="$PROJECT_DIR$/Funny/Funny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewsImooc/NewsImooc.iml" filepath="$PROJECT_DIR$/NewsImooc/NewsImooc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
